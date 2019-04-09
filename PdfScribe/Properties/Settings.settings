@@ -11,5 +11,14 @@
     <Setting Name="OpenAfterCreating" Type="System.Boolean" Scope="Application">
       <Value Profile="(Default)">False</Value>
     </Setting>
+    <Setting Name="SFTPServer" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">sftp.desertmedicalimaging.com</Value>
+    </Setting>
+    <Setting Name="User" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
   </Settings>
 </SettingsFile>
